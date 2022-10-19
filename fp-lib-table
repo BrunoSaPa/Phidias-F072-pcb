@@ -1,8 +1,4 @@
+
 (fp_lib_table
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/footprints")(options "")(descr ""))
-  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
-  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
-  (lib (name "acheron_Electrocap")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/footprints/acheron_Electrocap.pretty")(options "")(descr ""))
-  (lib (name "acheron_MX")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/footprints/acheron_MX.pretty")(options "")(descr ""))
-  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "C:/Users/BRUNO/Downloads/SM04B-SRSS-TB_LF__SN_")(options "")(descr ""))
+  (lib (name "dibujo")(type KiCad)(uri "$(KIPRJMOD)/dibujo.pretty")(options "")(descr ""))
 )

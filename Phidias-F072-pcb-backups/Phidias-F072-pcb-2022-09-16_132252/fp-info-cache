@@ -1,4 +1,4 @@
-19985296899869787
+19988667933447325
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77545,13 +77545,6 @@ rotary encoder
 0
 5
 4
-SM04B-SRSS-TB_LF__SN_
-JST_SM04B-SRSS-TB(LF)(SN)
-
-
-0
-6
-6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85113,6 +85106,20 @@ electrocap_switch
 8
 3
 acheron_MX
+LOGO2
+
+
+0
+0
+0
+acheron_MX
+LOGO3
+
+
+0
+0
+0
+acheron_MX
 MX100
 
 
@@ -85273,3 +85280,10 @@ MX_ISOEnter
 0
 2
 2
+acheron_MX
+PHIDIASlogo
+
+
+0
+0
+0
